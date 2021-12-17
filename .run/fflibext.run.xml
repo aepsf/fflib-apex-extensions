@@ -1,0 +1,55 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="fflibext" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" singleton="false" show_console_on_std_err="false" show_console_on_std_out="false">
+    <option name="allTests" value="false" />
+    <option name="allowRunningInParallel" value="true" />
+    <option name="apexLogLevel" value="DEBUG" />
+    <option name="calloutsLogLevel" value="INFO" />
+    <option name="connectionName" value="w02" />
+    <option name="connectionType" value="SFDX" />
+    <option name="contextConfiguration" value="false" />
+    <option name="databaseLogLevel" value="INFO" />
+    <option name="logLevelsInitialized" value="true" />
+    <option name="moduleToTestClassNames">
+      <map>
+        <entry key="fflib-apex-extensions">
+          <value>
+            <set>
+              <option value="fflib_ALogAppenderFilterTest" />
+              <option value="fflib_ArrayUtilsTest" />
+              <option value="fflib_ClassicDomainFactoryTest" />
+              <option value="fflib_ComparatorTest" />
+              <option value="fflib_CriteriaTest" />
+              <option value="fflib_DynamicDomainFactoryTest" />
+              <option value="fflib_DynamicSelectorFactoryTest" />
+              <option value="fflib_DynamicServiceFactoryTest" />
+              <option value="fflib_LogEventAppenderTest" />
+              <option value="fflib_LogEventStoreListenerTest" />
+              <option value="fflib_LoggerTest" />
+              <option value="fflib_OperatorUtilsTest" />
+              <option value="fflib_PrimitiveDomainsTest" />
+              <option value="fflib_SObjects2Test" />
+              <option value="fflib_TriggerHandlerTest" />
+              <option value="fflib_UnitOfWorkTest" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="nbaLogLevel" value="INFO" />
+    <option name="profilingLogLevel" value="INFO" />
+    <option name="projectPathOnTarget" />
+    <option name="selectedOptions">
+      <list />
+    </option>
+    <option name="systemLogLevel" value="DEBUG" />
+    <option name="testClassToTestMethodNames">
+      <map />
+    </option>
+    <option name="testSuiteName" />
+    <option name="validationLogLevel" value="INFO" />
+    <option name="visualforceLogLevel" value="INFO" />
+    <option name="waveLogLevel" value="INFO" />
+    <option name="workflowLogLevel" value="INFO" />
+    <method v="2" />
+  </configuration>
+</component>
